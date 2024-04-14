@@ -1,0 +1,6 @@
+postgresql connection string : 
+postgresql://neondb_owner:IjZ3mSfv4BOz@ep-still-frog-a5bvs72b.us-east-2.aws.neon.tech/neondb?sslmode=require
+
+connection pool url from prisma accelerate : 
+
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMTQzYTM0NjQtZGJiNy00NjJhLWJlYjEtMDcwOTlkNjM5ZDU3IiwidGVuYW50X2lkIjoiNGE2NDE1NDQ2NmJmNDU3ZWQ5ZjkyMzFlYjQzZWZkMGY2ZDg3NTQ0ODllNTVhOTE4YjEzNzFkMzc0OTA0MmNhNiIsImludGVybmFsX3NlY3JldCI6ImZlOTQyZjgxLWIyOGEtNDdlNS1hNjVlLWFjMDNlMzEyMzIyNyJ9.dO8auVNrACdJ05tRLRPFx_8tJYiOX4W7JGtIpuut03c"
